@@ -1,2 +1,2 @@
-# Computer Graphic Group6
+# Computer Graphic
 
